@@ -6,7 +6,7 @@
                                                    
                                                     Submitted To
                                                Mr. Md Anowarul Abedin
-                                         Lecturer, Department of CSE – ULAB
+                      Lecturer, Department of CSE – University of Liberal Arts Bangladesh (ULAB)
 
                                                     Submitted By
                                             Md. Atik-Uz-Zaman 143014054
@@ -31,3 +31,7 @@ This Agreement is made between two parties, firstly with Mr. Md. Anowarul Abedin
 Confidential Information shall not include:
 (a) Information disclosed publicly in published materials, except where such information has been collected or analysed, or 
 (b) Information generally known to the public.
+
+2. RETURN OF PROPERTY. At the time that our discussions terminate, or at any other time that the other party so requests, we will turn over to the other party all property of the other party and all Confidential Information in any form. I will not keep any copies, notes or abstracts of such materials.
+
+3. AGREEMENT TO DISCLOSE. We agree to disclose promptly to the other party or its authorised agent all information regarding real or potential security risks to the Confidential Information as soon as is possible. 
