@@ -46,6 +46,8 @@ Confidential Information shall not include:
 
 7. SEVERABILITY. If any one or more of the provisions contained in this Agreement shall for any reason be held to be invalid, such invalidity will not affect any other provision of this Agreement.
 
+8. APPLICABLE LAW. This Agreement is subject to, and constructed and interpreted in accordance with Bangladeshi law. Both parties irrevocably submit to the exclusive jurisdiction of the Bangladesh Courts. 
+
 
 
 
