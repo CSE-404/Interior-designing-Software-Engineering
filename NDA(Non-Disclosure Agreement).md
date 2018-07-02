@@ -40,6 +40,12 @@ Confidential Information shall not include:
 
 4. BINDING EFFECT. This Agreement shall inure to the benefit of and be binding upon both parties, their successors and assigns, heirs, executors, administrators and legal representatives.
 
+5. NEED FOR THIS AGREEMENT. we agree that because of the nature of the other party’s business, the restrictions contained in this Agreement are reasonable and necessary in order to protect the legitimate interests of the other party.
+
+6. REMEDIES. We understand that if we violate any provision of this agreement relating to Confidential Information, or to my duty to co-operate in matters relating to protection of intellectual property, the other party will suffer immediate and irreparable injury.
+
+7. SEVERABILITY. If any one or more of the provisions contained in this Agreement shall for any reason be held to be invalid, such invalidity will not affect any other provision of this Agreement.
+
 
 
 
