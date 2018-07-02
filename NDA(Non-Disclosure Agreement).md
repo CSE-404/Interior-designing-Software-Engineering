@@ -9,6 +9,8 @@
                       Lecturer, Department of CSE – University of Liberal Arts Bangladesh (ULAB)
 
                                                     Submitted By
+                                                    
+                                                   Nahid Reza 143014013
                                             Md. Atik-Uz-Zaman 143014054
                                            Mrinmoyee Dey Amin 143014037
                                          Afsana Shikder Samia 143014047
@@ -35,3 +37,33 @@ Confidential Information shall not include:
 2. RETURN OF PROPERTY. At the time that our discussions terminate, or at any other time that the other party so requests, we will turn over to the other party all property of the other party and all Confidential Information in any form. I will not keep any copies, notes or abstracts of such materials.
 
 3. AGREEMENT TO DISCLOSE. We agree to disclose promptly to the other party or its authorised agent all information regarding real or potential security risks to the Confidential Information as soon as is possible. 
+
+4. BINDING EFFECT. This Agreement shall inure to the benefit of and be binding upon both parties, their successors and assigns, heirs, executors, administrators and legal representatives.
+
+
+
+
+
+
+........................................................
+[Signature]
+
+
+........................................................
+[Name]
+
+........................................................
+Date of this Agreement:
+
+
+........................................................
+Accepted by Mr. Md. Anowarul Abedin:
+........................................................
+
+
+........................................................
+[Signature of Mr. Md. Anowarul Abedin]
+
+.............................................................................................................................
+     Return two signed copies to, Infinity Software Company limited and Mr. Md. Anowarul Abedin, Voice:+88 017589642358
+.............................................................................................................................
