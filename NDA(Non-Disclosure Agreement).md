@@ -48,7 +48,9 @@ Confidential Information shall not include:
 
 8. APPLICABLE LAW. This Agreement is subject to, and constructed and interpreted in accordance with Bangladeshi law. Both parties irrevocably submit to the exclusive jurisdiction of the Bangladesh Courts. 
 
+9. ENTIRE AGREEMENT. This Agreement represents the entire agreement between the parties and supersedes all prior or contemporaneous oral or written agreements between us relating to this subject matter. This Agreement may not be amended or altered except by a writing signed by both parties.
 
+10. WE ACKNOWLEDGE THAT I HAVE READ THIS AGREEMENT CAREFULLY, AND THAT I FULLY UNDERSTAND AND AGREE TO ALL OF ITS TERMS.
 
 
 
