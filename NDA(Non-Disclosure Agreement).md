@@ -19,6 +19,11 @@
                                        
                                           
                                           Submission Date: July 2nd, 2018
+                                          
+-------------------------------------------------------------------------------------------------------------------------------
+                                           MUTUAL NON-DISCLOSURE AGREEMENT
+                                           
+This Agreement is made between two parties, firstly with Mr. Md. Anowarul Abedin and also with Mr.Abrar Hasin and secondly Infinity software Company Limited. Both parties wish to discuss the viability and/or feasibility of a business relationship and wish to prevent the unauthorised use and disclosure of their confidential proprietary information.
                                                
 
                                                  
