@@ -1,8 +1,8 @@
-                                      # Interior-designing-Software-Engineering
+                                     Interior-Designing-Software-Engineering
 
                       
                                  This is our software engineering final project.
-                                       Project on Interior-designing
+                                       Project on Interior-Designing
                                             Course Code: CSE–404
                                                  Section: 1
                                      Course Title: Software Engineering
