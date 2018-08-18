@@ -1,0 +1,123 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald:400,700';
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import 'https://fonts.googleapis.com/css?family=Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i';
+
+  body{
+    margin: 0;
+    background-image: url(house.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+
+    
+  }
+  header{
+    background: black;
+    color: white;
+    padding: 8px,0px,6px,40px;
+    height: 48px;
+   }
+
+  header h1{
+    display: inline;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    float: left;
+    margin-top: 0px;
+    margin-right: 10px;
+  }
+
+  nav ul{
+    display: inline;
+    padding: 0px;
+    float: left;
+  }
+  nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    color: white; 
+    float: left;
+    margin-left: 10px;: 
+  }
+  nav ul li a{
+    color: white;
+    text-decoration: none;
+
+  }
+
+  #nav{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .homered{
+    background-color: red;
+    padding: 30px 10px 13px 10px;
+  }
+    .divider{
+      background-color: red;
+      height: 5px;
+    }
+    .homeblack:hover {
+      background-color: blue;
+      padding: 30px 10px 13px 10px;
+
+    }
+    .homesub{
+      font-family: 'Raleway', sans-serif;
+      margin: 0.5% 0% 0% 55%;
+      padding: 9% 5% 0% 5%;
+      font-size: 18px;
+      color: black;
+
+    }
+    .homedes {
+      font-family: 'Raleway', sans-serif;
+      margin: 0.9% 0% 0% 55%;
+      font-size: 70px;
+      color: white;
+      background-color: rgb(0,0,0,0.6);
+      
+   }
+   .homep{
+    font-family: 'Oswald', sans-serif;
+    margin: 0% 0% 0% 65%;
+    font-size: 65px;
+    color: black;
+    display: inline-block;
+   }
+   .butoondis {
+    margin: 0% 0% 0% 55%;
+    background:#2270CF;
+    color: black;
+    border: none;
+    height: 50px;
+    font-size: 1.4em;
+    padding: 0 1em;
+    cursor: pointer;
+    outline:initial;
+    font-family: 'Raleway' sans-serif;
+    font-weight: 900;
+   }
+
+   
+    .footer-link {
+    position: absolute;
+    bottom: 1px;
+    right: 0px;
+    margin: -0px;
+    color: white;
+    text-align:left;    
+    width:100%;
+    z-index: 999;
+
+   }
+   .footer-link.relative { position: relative; }
+
+.tm-copyright-text {
+    display: inline-block;
+    padding: 1px 4px;
+    background-color: rgba(0,0,0,0.8);
+}
+footer a { color:black; }
+
+   
