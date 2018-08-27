@@ -33,7 +33,7 @@ http://www.templatemo.com/tm-501-neaty
                 <ul>
                     <li><a href="../" class="active">Home</a></li>
 
-                    <li><a href="#">Design</a>
+                    <li><a href="{{ url('/index') }}">Design</a>
                         <ul>
                             <li><a href="{{ url('/index') }}" class="active1">Kitchen</a></li>
                             <li><a href="#">Home</a></li>
