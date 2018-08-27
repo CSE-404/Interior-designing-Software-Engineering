@@ -1,0 +1,22 @@
+body{
+	background-image:url(b.jpg); 
+	background-size: cover;
+
+
+}
+.homedes {
+      
+      margin: 0;
+      font-size: 50px;
+      color: white;
+      
+      
+   }
+
+ .homep{
+    font-family: 'Oswald', sans-serif;
+    margin:0;
+    font-size: 50px;
+    color: white;
+    
+   }
