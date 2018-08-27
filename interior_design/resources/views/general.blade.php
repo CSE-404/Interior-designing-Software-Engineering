@@ -33,7 +33,7 @@
                         </ul>
 
                     </li>
-                    <li><a href="#">Project</a></li>
+                    <li><a href="{{ url('/project') }}">Project</a></li>
                     <li><a href="#">News</a></li>
                     <li><a href="#">About Us</a>
                        <ul>
