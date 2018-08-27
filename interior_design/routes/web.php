@@ -27,3 +27,4 @@ Route::get('/color','ColorPageController@showColorpage');
 Route::get('/center','CenterPageController@showCenterpage');
 Route::get('/project','ProjectPageController@showProjectpage');
 Route::get('/map','MapPageController@showMappage');
+Route::get('/contact','ContactPageController@showContactpage');
