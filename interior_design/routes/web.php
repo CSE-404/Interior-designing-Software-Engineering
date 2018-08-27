@@ -25,3 +25,4 @@ Route::get('/back','BackPageController@showBackpage');
 Route::get('/cabinet','CabinetPageController@showCabinetpage');
 Route::get('/color','ColorPageController@showColorpage');
 Route::get('/center','CenterPageController@showCenterpage');
+Route::get('/project','ProjectPageController@showProjectpage');
