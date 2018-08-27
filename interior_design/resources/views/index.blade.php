@@ -47,7 +47,7 @@ http://www.templatemo.com/tm-501-neaty
                     <li><a href="#">About Us</a>
                        <ul>
                         <li><a href="#">Contact</a></li>
-                        <li><a href="#">Map</a></li>
+                        <li><a href="{{ url('/map') }}">Map</a></li>
                         <li><a href="#">Direction</a></li>
                     </li>
                 </ul>
