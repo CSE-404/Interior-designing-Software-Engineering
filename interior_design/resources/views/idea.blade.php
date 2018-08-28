@@ -49,7 +49,7 @@ http://www.templatemo.com/tm-501-neaty
                        <ul>
                         <li><a href="{{ url('/contact') }}">Contact</a></li>
                         <li><a href="{{ url('/map') }}">Map</a></li>
-                        <li><a href="#">Direction</a></li>
+                        <li><a href="{{ url('/direction') }}">Direction</a></li>
                     </li>
                 </ul>
   <li><a href="{{ url('/login') }}" target="blank">Login</a></li>
