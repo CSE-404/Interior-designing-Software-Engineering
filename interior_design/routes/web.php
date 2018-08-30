@@ -30,3 +30,7 @@ Route::get('/map','MapPageController@showMappage');
 Route::get('/contact','ContactPageController@showContactpage');
 Route::get('/direction','DirectionPageController@showDirectionpage');
 Route::get('/news','NewsPageController@showNewspage');
+Route::get('/index2','Index2PageController@showIndex2page');
+Route::get('/wash','WashPageController@showWashpage');
+Route::get('/dining','DiningPageController@showDiningpage');
+Route::get('/balcony','BalconyPageController@showBalconypage');
