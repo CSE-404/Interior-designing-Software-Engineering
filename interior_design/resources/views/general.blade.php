@@ -34,7 +34,7 @@
 
                     </li>
                     <li><a href="{{ url('/project') }}">Project</a></li>
-                    <li><a href="#">News</a></li>
+                    <li><a href="{{ url('/news') }}">News</a></li>
                     <li><a href="{{ url('/contact') }}">About Us</a>
                        <ul>
                         <li><a href="{{ url('/contact') }}">Contact</a></li>
