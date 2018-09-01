@@ -49,7 +49,7 @@ http://www.templatemo.com/tm-501-neaty
         </div>
             <div class="divider"></div>
     <h1 class="homedes">Interior Designing</h1>
-<iframe align="left" src="https://www.google.com/maps/d/u/0/embed?mid=1QvvpBoYr7x6MLjMCRiU0VhH1dkeHJMd1" width="800" height="450"></iframe>
+<iframe align="left" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1826.0540073991308!2d90.37274685052994!3d23.74352729701264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf0f056566b9%3A0x7ea025f334797f36!2sInfinity+Software+Company+Limited!5e0!3m2!1sen!2sbd!4v1535810292909" width="800" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <div id="wrapper">
       <a href="https://www.facebook.com/Infinity-Software-Company-Limited-1994132243972041/?ref=bookmarks" target="blank"><div class="box" id="facebook">&#62220;</div></a>
       <a href="https://twitter.com/InfinitySoftwa3" target="blank"><div class="box" id="twitter">&#62217;</div></a>
