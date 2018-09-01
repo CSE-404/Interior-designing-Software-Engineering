@@ -40,3 +40,4 @@ Route::get('/hire','HirePageController@showHirepage');
 Route::get('/steam','SteamPageController@showSteampage');
 Route::get('/producto','ProductoPageController@showProductopage');
 Route::get('/contactu','ContactuPageController@showContactupage');
+Route::get('/index3','Index3PageController@showIndex3page');
