@@ -62,27 +62,17 @@
         </div>
 
         <div class="content">
-            <h1>Dashboard</h1>
-            <p>Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects. Interior design is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design.</p>
+            <h1>Contact Details</h1>
             <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We are happily to inform you recently three designers join in our firm.</div>
+                <div class="box-top">Office</div>
+                <div class="box-panel">Infinity Software Company Limited, Road No- 7/A, House No-185/Kha,@ Satmasjid Road, Dhanmondi, Dhaka-1209, Bangladesh. Cell: 01977-239551, 01703-332454, 01683-561942, 01920-399341.</div>
+            </div>
+            <div id="box">
+                <div class="box-top">Emergency Contact</div>
+                <div class="box-panel">For Emergency Contact: 01684-800657, 01957-550258, 01760-150897, 01725-285058.</div>
             </div>
 
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We recently added office interior design in our service.</div>
-            </div>
-
-
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We provide raw materials supply system from our dealer in a cheap rate. Now you can place order in our website using login system.</div>
-            </div>
-             <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We also provide designers for your service. Now you can choose designer from our website using login system.</div>
-            </div>
+          <iframe align="left" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1826.0540073991308!2d90.37274685052994!3d23.74352729701264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf0f056566b9%3A0x7ea025f334797f36!2sInfinity+Software+Company+Limited!5e0!3m2!1sen!2sbd!4v1535810292909" width="1069" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
 
 
