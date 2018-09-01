@@ -24,33 +24,38 @@
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
+        </span><a href="{{ url('home')}}">Home</a>
+                </li>
+                <li>
+                    <span>
+          <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
         </span>
-                    <a class="selected" href="#">My Profile</a>
+                    <a class="selected" href="{{ url('profile')}}">My Profile</a>
                 </li>
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="#">Our Interior Designer Team</a>
+        </span><a href="{{ url('team')}}">Our Interior Designer Team</a>
                 </li>
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="#">Hire a designer</a>
+        </span><a href="{{ url('hire')}}">Hire a designer</a>
                 </li>
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="#">Our Suppliers Team</a>
+        </span><a href="{{ url('steam')}}">Our Suppliers Team</a>
                 </li>
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="#">Product Order</a>
+        </span><a href="{{ url('producto')}}">Product Order</a>
                 </li>
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="#">Contact us</a>
+        </span><a href="{{ url('contactu')}}">Contact us</a>
                 </li>
             </ul>
 
