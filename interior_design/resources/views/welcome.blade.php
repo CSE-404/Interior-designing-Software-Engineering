@@ -78,7 +78,7 @@
                             <li><a href="{{ url('/index') }}" class="active1">Kitchen</a></li>
                             <li><a href="{{ url('/index2') }}">Home</a></li>
                             <li><a href="#">Office</a></li>
-                            <li><a href="#">Living room</a></li>
+                            <li><a href="{{ url('/index3') }}">Living room</a></li>
                             <li><a href="#">Bedroom</a></li>
                         </ul>
 
