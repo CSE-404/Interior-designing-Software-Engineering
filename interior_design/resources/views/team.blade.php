@@ -62,30 +62,34 @@
         </div>
 
         <div class="content">
-            <h1>Dashboard</h1>
-            <p>Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects. Interior design is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design.</p>
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We are happily to inform you recently three designers join in our firm.</div>
-            </div>
+            <h1>Our Designer Team</h1>
+            <p>Interior designers improve the look, usage, and safety of interior spaces. Their main purpose is to meet the needs of the occupants by enhancing all aspects of the space, including color, lighting, textures, furniture, and the spatial relationships. Interior designers work on the interior spaces of all kinds of buildings, including homes, offices, hospitals, shopping malls, restaurants, and theaters. However, their duties are similar from project to project.</p>
+<table width="1060" border="1">
+      <tr>
+        <td width="353" align="center">
+            <figure><img src="img/mrinmoyee.jpg" width="217" height="237" alt="Mrinmoyee Dey Amin">
+            <figcaption>Mrinmoyee Dey Amin</figcaption>
+            </td></figure>
 
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We recently added office interior design in our service.</div>
-            </div>
+       <td width="353" align="center">
+            <figure><img src="img/ta.jpg" width="217" height="237" alt="Tareq Rahman">
+            <figcaption>Tareq Rahman</figcaption>
+            </td></figure>
+
+        <td width="353" align="center">
+            <figure><img src="img/nahid.jpg" width="217" height="237" alt="Nahid Reza">
+            <figcaption>Nahid Reza</figcaption>
+            </td></figure>
+
+        <td width="353" align="center">
+            <figure><img src="img/nadia.jpg" width="217" height="237" alt="Nahid Reza">
+            <figcaption>Nadia Rahman</figcaption>
+            </td></figure>
+      </tr>
+      <tr>
 
 
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We provide raw materials supply system from our dealer in a cheap rate. Now you can place order in our website using login system.</div>
-            </div>
-             <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We also provide designers for your service. Now you can choose designer from our website using login system.</div>
-            </div>
         </div>
-
-
     </div>
     <!-- #container -->
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
