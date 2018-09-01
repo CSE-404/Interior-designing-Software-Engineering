@@ -62,29 +62,31 @@
         </div>
 
         <div class="content">
-            <h1>Dashboard</h1>
-            <p>Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects. Interior design is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design.</p>
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We are happily to inform you recently three designers join in our firm.</div>
-            </div>
+            <h1>Our Supplier Team</h1>
+            <p>The party furnishing goods or services in a business transaction in return for the agreed upon compensation. As such, suppliers do not generally interact with consumers directly, leaving that task to vendors or shop owners. It is not unusual for a supplier to provide volume discounts to vendors when they agree to sign long-term contracts or place orders for large quantities. There are suppliers found in just about any type of business. Wholesale suppliers are very common in the retail industry, where they are likely to manufacture and deliver large quantities of products to their client. Supply companies also work in niche markets as well, such as importing and exporting packaged foods, ethnic or cultural goods, or any other range of products that have a small but reliable demand. In general, exporters of this type will handle all the details for shipment and delivery to the vendor, and include the associated costs in the final charges issued to the client. In international trade relationships between suppliers and its clients are governed by an International Supply Contract.</p>
+            <table width="1060" border="1">
+      <tr>
+        <td width="353" align="center">
+            <figure><img src="img/jishan.jpg" width="217" height="237" alt="Mrinmoyee Dey Amin">
+            <figcaption>Md. Asifuzzaman Jishan</figcaption>
+            </td></figure>
 
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We recently added office interior design in our service.</div>
-            </div>
+       <td width="353" align="center">
+            <figure><img src="img/mahmud.jpg" width="217" height="237" alt="Tareq Rahman">
+            <figcaption>Md. Mahmud Hossain</figcaption>
+            </td></figure>
 
+        <td width="353" align="center">
+            <figure><img src="img/samia.jpg" width="217" height="237" alt="Nahid Reza">
+            <figcaption>Afsana Sikhder Samia</figcaption>
+            </td></figure>
 
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We provide raw materials supply system from our dealer in a cheap rate. Now you can place order in our website using login system.</div>
-            </div>
-             <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We also provide designers for your service. Now you can choose designer from our website using login system.</div>
-            </div>
-        </div>
-
+        <td width="353" align="center">
+            <figure><img src="img/atik.jpg" width="217" height="237" alt="Nahid Reza">
+            <figcaption>Md. Atikuzzaman Atik</figcaption>
+            </td></figure>
+      </tr>
+      <tr>
 
     </div>
     <!-- #container -->
