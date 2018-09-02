@@ -41,3 +41,7 @@ Route::get('/steam','SteamPageController@showSteampage');
 Route::get('/producto','ProductoPageController@showProductopage');
 Route::get('/contactu','ContactuPageController@showContactupage');
 Route::get('/index3','Index3PageController@showIndex3page');
+Route::get('/index4','Index4PageController@showIndex4page');
+Route::get('/single','SinglePageController@showSinglepage');
+Route::get('/family','FamilyPageController@showFamilypage');
+Route::get('/master','MasterPageController@showMasterpage');
