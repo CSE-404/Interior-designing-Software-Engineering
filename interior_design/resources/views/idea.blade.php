@@ -39,7 +39,7 @@ http://www.templatemo.com/tm-501-neaty
                             <li><a href="{{ url('/index2') }}">Home</a></li>
                             <li><a href="#">Office</a></li>
                             <li><a href="{{ url('/index3') }}">Living room</a></li>
-                            <li><a href="#">Bedroom</a></li>
+                            <li><a href="{{ url('/index4') }}">Bedroom</a></li>
                         </ul>
 
                     </li>
