@@ -65,7 +65,7 @@
             <h1>Contact Details</h1>
             <div id="box">
                 <div class="box-top">Office</div>
-                <div class="box-panel">Infinity Software Company Limited, Road No- 7/A, House No-185/Kha,@ Satmasjid Road, Dhanmondi, Dhaka-1209, Bangladesh. Cell: 01977-239551, 01703-332454, 01683-561942, 01920-399341.</div>
+                <div class="box-panel">Infinity Software Company Limited<br> Road No- 7/A, House No-185/Kha,@ Satmasjid Road<br> Dhanmondi, Dhaka-1209, Bangladesh.<br> Cell: 01977-239551, 01703-332454, 01683-561942, 01920-399341.</div>
             </div>
             <div id="box">
                 <div class="box-top">Emergency Contact</div>
