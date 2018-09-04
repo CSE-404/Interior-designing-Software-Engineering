@@ -62,27 +62,36 @@
         </div>
 
         <div class="content">
-            <h1>Dashboard</h1>
+            <h1>Product Section</h1>
             <p>Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects. Interior design is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design.</p>
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We are happily to inform you recently three designers join in our firm.</div>
-            </div>
-
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We recently added office interior design in our service.</div>
-            </div>
-
-
-            <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We provide raw materials supply system from our dealer in a cheap rate. Now you can place order in our website using login system.</div>
-            </div>
-             <div id="box">
-                <div class="box-top">News</div>
-                <div class="box-panel">We also provide designers for your service. Now you can choose designer from our website using login system.</div>
-            </div>
+            <ol style="color: black;font-size: 15px;text-align: left">
+                <li>Latest Accessories</li>
+                <ul>
+                    <li><a href="https://www.contractdesign.com/products/accessories-shelves-storage/maxine-snider-tokyo/" style="color: white" target="_blank">Maxine Snider: Tokyo</li></a>
+                    <li><a href="https://www.contractdesign.com/products/accessories/left-lily/" style="color: white" target="_blank">LEFT: Lily</li></a>
+                    <li><a href="https://www.contractdesign.com/products/accessories/amuneal-wall-hanging-credenza/" style="color: white" target="_blank">Amuneal: Wall Hanging Credenza</li></a>
+                    <li><a href="https://www.contractdesign.com/products/accessories-signage-wayfinding/takeform-attend/" style="color: white" target="_blank">Takeform: Attend</li></a>
+                    <li><a href="https://www.contractdesign.com/products/furniture-systems-benching/inscape-designtex-and-west-elm-west-elm-workplace/" style="color: white" target="_blank">Inscape, Designtex, and West Elm: West Elm Workplace</li></a>
+                </ul>
+                <li>Latest Architectural</li>
+                <ul>
+                    <li><a href="https://www.contractdesign.com/products/architectural-surfacing-materials/wilsonart-texture-intrigue/" style="color: white" target="_blank">Wilsonart: Texture Intrigue</li></a>
+                    <li><a href="https://www.contractdesign.com/products/architectural/nevins-bio-canvas/" style="color: white" target="_blank">Nevins: Bio Canvas</li></a>
+                    <li><a href="https://www.contractdesign.com/products/architectural/sky-frame-pivot/" style="color: white" target="_blank">Sky-Frame: Pivot</li></a>
+                </ul>
+                <li>Latest Bath</li>
+                <ul>
+                     <li><a href="https://www.contractdesign.com/products/bath/coastal-shower-doors-berkwood/" style="color: white" target="_blank">Coastal Shower Doors: Berkwood</li></a>
+                    <li><a href="https://www.contractdesign.com/products/bath/duravit-xsquare-collection/" style="color: white" target="_blank">Duravit: XSquare Collection</li></a>
+                    <li><a href="https://www.contractdesign.com/products/bath-basins/margraf-nuvola/" style="color: white" target="_blank">Margraf: Nuvola</li></a>
+                </ul>
+                 <li>Latest Education Solutions</li>
+                 <ul>
+                     <li><a href="https://www.contractdesign.com/products/education-solutions/casala-class/" style="color: white" target="_blank">Casala: Class</li></a>
+                    <li><a href="https://www.contractdesign.com/products/education-solutions/rt-london-evolve/" style="color: white" target="_blank">RT London: Evolve</li></a>
+                    <li><a href="https://www.contractdesign.com/products/education-solutions/davis-techniq/" style="color: white" target="_blank">Davis: Techniq</li></a>
+                </ul>
+            </ol>
         </div>
 
 
