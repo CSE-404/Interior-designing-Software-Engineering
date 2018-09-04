@@ -51,11 +51,7 @@ http://www.templatemo.com/tm-501-neaty
     <h1 class="homedes">Interior Designing</h1>
 
 <h2 style="text-align:left;color: white"><b>Contact Address-</h2></b>
-<p style="text-align:left;color: white">Infinity Software Company Limited</p>
-<p style="text-align:left;color: white">Road No- 7/A, House No-185/Kha,@ Satmasjid Road, Dhanmondi</p>
-<p style="text-align:left;color: white">Dhaka-1209, Bangladesh</p>
-<p style="text-align:left;color: white">Cell: 01977-239551, 01703-332454, 01683-561942, 01920-399341.</p>
-<p style="text-align:left;color: white">For Emergency Contact: 01684-800657, 01957-550258, 01760-150897, 01725-285058.</p>
+<p style="text-align:left;color: white">Infinity Software Company Limited<br>Road No- 7/A, House No-185/Kha,@ Satmasjid Road, Dhanmondi<br>Dhaka-1209, Bangladesh<br>Cell: 01977-239551, 01703-332454, 01683-561942, 01920-399341.<br>For Emergency Contact: 01684-800657, 01957-550258, 01760-150897, 01725-285058.</p>
 <div id="wrapper">
       <a href="https://www.facebook.com/Infinity-Software-Company-Limited-1994132243972041/?ref=bookmarks" target="blank"><div class="box" id="facebook">&#62220;</div></a>
       <a href="https://twitter.com/InfinitySoftwa3" target="blank"><div class="box" id="twitter">&#62217;</div></a>
