@@ -45,3 +45,4 @@ Route::get('/index4','Index4PageController@showIndex4page');
 Route::get('/single','SinglePageController@showSinglepage');
 Route::get('/family','FamilyPageController@showFamilypage');
 Route::get('/master','MasterPageController@showMasterpage');
+Route::get('/index5','Index5PageController@showIndex5page');
