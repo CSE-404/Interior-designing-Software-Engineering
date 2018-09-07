@@ -40,17 +40,18 @@
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="{{ url('hire')}}">Hire a designer</a>
+            </span><a href="{{ url ('/hire?id=1-8')}}">My Designer</a>
                 </li>
                 <li>
                     <span>
           <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
-        </span><a href="{{ url('steam')}}">Our Suppliers Team</a>
-                </li>
-                <li>
-                    <span>
-          <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
+       
         </span><a href="{{ url('producto')}}">Product Order</a>
+                </li>
+                <li>
+                    <span>
+          <img src="http://www.webhostingreviewsbynerds.com/wp-content/plugins/rss-poster/cache/e17b1_fnal-570x456.png" width="32" height="32" >
+        </span><a href="{{ url('/myproduct?id=1-8')}}">My Product</a>
                 </li>
                 <li>
                     <span>
