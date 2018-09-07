@@ -10,4 +10,9 @@ class TeamPageController extends Controller{
     {
         return view('team');
     }
+
+    public function getData()
+    {
+    	$data['data'] = DB::table('designer')->get();
+    }
 }
